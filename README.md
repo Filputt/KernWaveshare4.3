@@ -18,9 +18,20 @@ A 3D-printable enclosure for the [Waveshare ESP32-P4-WiFi6-Touch-LCD-4.3](https:
 ## Printing
 
 - **Material:** PLA
-- **Layer height:** 0.2 mm
+- **Layer height:** 0.16 mm
 - **Infill:** 15% cross hatch
 - **Orientation:** Print as designed (flat on build plate)
+
+The `.3mf` file contains the following plates for Bambu Studio:
+
+| Plate | Contents |
+|---|---|
+| Cylinder Screw Head Version | Enclosure body with cylindrical screw head mounting + button |
+| Tapered Screw Head Version | Enclosure body with tapered screw head mounting + button |
+| Buttons | Extra button bodies |
+| MultiColor | Multicolour enclosure (body + cover + buttons, uses 3 filament colors) |
+
+![MultiColour Version](Photos/MultiColour.jpg)
 
 ## Assembly
 
