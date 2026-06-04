@@ -2,7 +2,9 @@
 
 A 3D-printable enclosure for the [Waveshare ESP32-P4-WiFi6-Touch-LCD-4.3](https://www.waveshare.com/esp32-p4-wifi6-touch-lcd-4.3.htm) development board (480x800 LCD). Designed with the [Kern](https://github.com/odudex/Kern) air-gapped Bitcoin signer project in mind, but suitable for any use case with this board.
 
-![Enclosure](Photos/PXL_20260604_081639379.jpg)
+![Enclosure Front](Photos/AssembledFront.jpg)
+
+![Enclosure Back](Photos/AssembledBack.jpg)
 
 ## Files
 
@@ -21,6 +23,8 @@ A 3D-printable enclosure for the [Waveshare ESP32-P4-WiFi6-Touch-LCD-4.3](https:
 - **Orientation:** Print as designed (flat on build plate)
 
 ## Assembly
+
+![Assembly](Photos/Assembly.jpg)
 
 - Mount the board using **M2.5 screws** (6 mm or 8 mm length recommended)
 - The enclosure has an outer protective rim that frames the 4.3" screen
