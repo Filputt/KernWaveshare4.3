@@ -15,9 +15,9 @@ A 3D-printable enclosure for the [Waveshare ESP32-P4-WiFi6-Touch-LCD-4.3](https:
 
 ## Printing
 
-- **Material:** PLA (dark PLA shown in photos)
+- **Material:** PLA
 - **Layer height:** 0.2 mm
-- **Infill:** 20-25 %
+- **Infill:** 15% cross hatch
 - **Orientation:** Print as designed (flat on build plate)
 
 ## Assembly
