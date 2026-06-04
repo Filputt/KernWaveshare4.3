@@ -29,6 +29,7 @@ A 3D-printable enclosure for the [Waveshare ESP32-P4-WiFi6-Touch-LCD-4.3](https:
 - Mount the board using **M2.5 screws** (6 mm or 8 mm length recommended)
 - The enclosure has an outer protective rim that frames the 4.3" screen
 - A **1000mAh battery** (model 503450, [available on AliExpress](https://aliexpress.com/item/1005008707394961.html)) fits snug inside. Note: the units received are mislabeled as "100mAh" in the photos, but they are actually 1000mAh.
+- The battery uses an **MX1.25 connector**, which matches the development board's battery connector. No rewiring needed.
 
 ## Kern Project
 
